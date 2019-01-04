@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Andy Felder Website
 
-You can use the [editor on GitHub](https://github.com/andyfelder/andyfelder.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/andyfelder/andyfelder.github.io.svg?branch=master)](https://travis-ci.org/andyfelder/andyfelder.github.io)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Website for Andrew Felder
 
-### Markdown
+## Building
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dependencies:
 
-```markdown
-Syntax highlighted code block
+First install ruby and ruby bundler if you don't already have it from another ruby project:
 
-# Header 1
-## Header 2
-### Header 3
+    sudo apt install ruby ruby-dev
+    gem install jekyll bundler
 
-- Bulleted
-- List
+or
 
-1. Numbered
-2. List
+    # Note: No sudo on a Mac. You should never use sudo for these kinds of installs on a Mac anymore.
+    # sudo may make this work for now, but it will make your life miserable in the long run.
+    brew install ruby
+    gem install jekyll bundler
 
-**Bold** and _Italic_ and `Code` text
+Then use bundler to install the needed gems
 
-[Link](url) and ![Image](src)
-```
+    bundle install
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+To build the website:
 
-### Jekyll Themes
+    bundle exec jekyll serve
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andyfelder/andyfelder.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Now browse to http://localhost:4000 to view
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
