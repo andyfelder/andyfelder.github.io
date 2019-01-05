@@ -17,7 +17,7 @@ title: Andrew Felder
 email: andrew.felder@monroemi.gov
 description: Homepage for Andrew Felder.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://andyfelder.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://andyfelder.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/img/Felder.jpg
 
 # Additional pages to be displayed in navigation
