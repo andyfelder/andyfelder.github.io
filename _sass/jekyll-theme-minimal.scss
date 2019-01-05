@@ -36,12 +36,13 @@ h3, h4, h5, h6 {
 
 a {
   color:#267CB9;
+  font-weight:normal;
   text-decoration:none;
 }
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight:normal;
 }
 
 a small {
@@ -148,7 +149,7 @@ header ul a {
 
 header ul a:hover, header ul a:focus {
   color:#675C5C;
-  font-weight:bold;
+  font-weight:normal;
 }
 
 header ul a:active {
@@ -269,4 +270,32 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.vertical-menu {
+  margin:auto;
+  width:200px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+  background-color:#AAAAAA; /* Grey background color */
+  color:black; /* Black text color */
+  display:block; /* Make the links appear below each other */
+  font-size:18px;
+  font-weight:normal;
+  margin-top:2px;
+  padding:12px; /* Add some padding */
+  text-align:center;
+  text-decoration:none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+  background-color:#CCCCCC; /* Lighter grey background on mouse-over */
+  font-weight:normal;
+}
+
+.vertical-menu a.active {
+  background-color:#267CB9; /* Make current page blue */
+  color:white;
+  font-weight:normal;
 }

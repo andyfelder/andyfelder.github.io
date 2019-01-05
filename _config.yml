@@ -20,6 +20,19 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://andyfelder.com" # the base hostname & protocol for your site, e.g. http://example.com
 logo: assets/img/Felder.jpg
 
+# Additional pages to be displayed in navigation
+# "title" is the title of the navigation item, "url" is the url, and "description" is the tooltip
+navigation:
+  - title: Home
+    url: /
+    description: Homepage
+  - title: About
+    url: /pages/about/
+    description: About Andrew Felder
+  - title: Item2
+    url: /pages/item2/
+    description: The second item
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal

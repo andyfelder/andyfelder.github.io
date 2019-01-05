@@ -14,11 +14,27 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}" style="margin-left: 10px">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a href="{{ "/" | absolute_url }}" style="margin-left: 10px;font-weight: bold">{{ site.title | default: site.github.repository_name }}</a></h1>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+
+        <nav>
+            <div class="vertical-menu">
+              {% for link in site.navigation %}
+                {% assign current = nil %}
+                {% if page.url contains link.url %}
+                  {% assign current = 'class="current"' %}
+                {% endif %}
+                {% if page.url == link.url %}
+                  <a href="{{ link.url | prepend: site.baseurl }}" class="active" {{ current }} {% if link.description %} title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
+                {% else %}
+                  <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.description %} title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
+                {% endif %}
+              {% endfor %}
+            </div>
+        </nav>
 
       </header>
       <section>
