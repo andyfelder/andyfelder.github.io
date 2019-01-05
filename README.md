@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/andyfelder/andyfelder.github.io.svg?branch=master)](https://travis-ci.org/andyfelder/andyfelder.github.io)
 
-Website for [Andrew Felder](andyfelder.github.io)
+Website for [Andrew Felder](https://andyfelder.github.io)
 
 ## Building
 
