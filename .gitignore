@@ -4,3 +4,4 @@ _site
 .bundle
 npm-debug.log
 vendor/bundle
+tmp/

@@ -5,6 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/favicon.ico">
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -24,14 +27,10 @@
             <div class="vertical-menu">
               {% for link in site.navigation %}
                 {% assign current = nil %}
-                {% if page.url contains link.url %}
-                  {% assign current = 'class="current"' %}
-                {% endif %}
                 {% if page.url == link.url %}
-                  <a href="{{ link.url | prepend: site.baseurl }}" class="active" {{ current }} {% if link.description %} title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
-                {% else %}
-                  <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.description %} title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
+                  {% assign current = 'class="active"' %}
                 {% endif %}
+                <a href="{{ link.url | prepend: site.baseurl }}" {{ current }} {% if link.description %} title="{{ link.description }}" {% endif %}>{{ link.title }}</a>
               {% endfor %}
             </div>
         </nav>

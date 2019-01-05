@@ -18,6 +18,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "html-proofer"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
 end
