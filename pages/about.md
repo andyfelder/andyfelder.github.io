@@ -9,5 +9,5 @@ title: About Andrew Felder
 
 # About Andrew Felder
 
-Work in progress. This is a test.W
+Work in progress.
 

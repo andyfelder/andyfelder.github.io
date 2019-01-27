@@ -4,7 +4,31 @@
 
 Website for [Andrew Felder](https://andyfelder.github.io)
 
-## Building
+
+## Editing content
+
+All pages on the website are written in Markdown (specifically
+[Kramdown](https://kramdown.gettalong.org/quickref.html)). For a Markdown
+reference, see here:
+[https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
+
+The important folders are `images/` and `pages/`. Upload pictures to the
+`images/` folder and edit webpages in the `pages/` folder. Within `pages/`,
+`index.md` is the home page for the website. Each of the other files are
+sub-pages linked to in the navigation banner. Don't worry about the contents
+of `pages-root-folder/`, they shouldn't need to be modified.
+
+To edit a file on github:
+
+1. Check that you are logged in on Github
+2. Click on the particular page that you want to edit
+3. Click the pencil ("Edit this file") to begin editing
+4. Make changes!
+5. When you are done, click the green "Commit changes" button at the bottom of the screen to save changes
+6. Check on [the website](andyfelder.github.io) that everything still looks good on the page you edited
+
+
+## Building locally
 
 Dependencies:
 
