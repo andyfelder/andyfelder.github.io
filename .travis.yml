@@ -13,5 +13,5 @@ env:
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer --version
-  - bundle exec htmlproofer --timeframe 4w --allow_hash_href --assume-extension --check-favicon --check-html --check-img-http ./_site/ --url-swap "https?\:\/\/(localhost\:4000|andyfelder\.github\.io):"
+  - bundle exec htmlproofer --timeframe 4w --allow_hash_href --assume-extension --check-favicon --check-html --check-img-http ./_site/ --url-swap "https?\:\/\/(localhost\:4000|andyfelder\.github\.io):" --url-ignore "/facebook\.com/,/linkedin\.com/"
 
