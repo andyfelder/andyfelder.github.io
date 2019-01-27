@@ -1,6 +1,6 @@
 # Andy Felder Website
 
-[![Build Status](https://travis-ci.com/andyfelder/andyfelder.github.io.svg?branch=master)](https://travis-ci.org/andyfelder/andyfelder.github.io)
+[![Build Status](https://travis-ci.com/andyfelder/andyfelder.github.io.svg?branch=master)](https://travis-ci.com/andyfelder/andyfelder.github.io)
 
 Website for [Andrew Felder](https://andyfelder.github.io)
 
