@@ -3,9 +3,9 @@
 layout: page-fullwidth
 header: no
 title: "Felder for Monroe"
-image:
-    file: Felder.jpg
-    title: Andrew Felder
+#image:
+#    file: felder_professional.jpg
+#    title: Andrew Felder.
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -14,7 +14,9 @@ permalink: /index.html
 homepage: true
 ---
 
-# Felder for Monroe
+# Felder for Monroe County Treasurer
 
-Content goes here!
+Andrew Felder is running for Monroe county treasurer!
+
+![Felder for treasurer poster.]({{ site.url }}{{ site.urlimg }}felder_poster.png)
 

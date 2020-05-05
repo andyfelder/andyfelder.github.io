@@ -5,7 +5,7 @@ format: page-fullwidth
 <div class="row t30">
 {% if page.image.title %}
 	<div class="small-3 columns">
-		<img src="{{ site.urlimg }}{{ page.image.file }}" title="{{ page.image.title }}" alt="{{ page.image.title | escape_once }}">
+		<img src="{{ site.url }}{{ site.urlimg }}{{ page.image.file }}" title="{{ page.image.title }}" alt="{{ page.image.title | escape_once }}">
 	</div><!-- /.small-12.columns -->
 {% endif %}
 

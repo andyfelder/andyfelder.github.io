@@ -6,21 +6,17 @@
   url: /pages/about/
   description: About Andrew Felder
   side: left
-- title: On the Issues
-  url: /pages/issues/
-  description: Policy positions
+- title: Values
+  url: /pages/values/
+  description: Andrew's Values
   side: left
-- title: Endorsements
-  url: /pages/endorsements/
-  description: Endorsements of Andrew Felder
+- title: Community Engagement
+  url: /pages/community/
+  description: Community Engagement
   side: left
 - title: News and Media
   url: /pages/news/
   description: Articles including Andrew Felder
-  side: left
-- title: Volunteer or Contribute
-  url: /pages/contribute/
-  description: Volunteer to help
   side: left
 - title: Contact Information
   url: /pages/contact/
