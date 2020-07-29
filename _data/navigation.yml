@@ -2,7 +2,7 @@
   url: "/"
   description: Homepage
   side: left
-- title: About Andrew
+- title: About
   url: /pages/about/
   description: About Andrew Felder
   side: left
@@ -10,17 +10,17 @@
   url: /pages/values/
   description: Andrew's Values
   side: left
-- title: Community Engagement
-  url: /pages/community/
-  description: Community Engagement
+- title: Endorsements
+  url: /pages/endorsements/
+  description: Endorsements of Andrew
   side: left
-- title: News and Media
-  url: /pages/news/
-  description: Articles including Andrew Felder
-  side: left
-- title: Contact Information
+#- title: News and Media
+#  url: /pages/news/
+#  description: Articles including Andrew Felder
+#  side: left
+- title: Connect and Contribute
   url: /pages/contact/
-  description: Contact Andrew Felder
+  description: Campaign Details
   side: left
 
 #- title: Getting Started

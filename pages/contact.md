@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
 header: no
-title: Contact Andrew Felder
+title: Connect and Contribute
 #image:
 #   file: <image filename in images folder>
 #   title: <text describing the image>
 ---
 
-# Contact Andrew Felder
+# Connect and Contribute to Andrew's Campaign
 
 Work in progress
 

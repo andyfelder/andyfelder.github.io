@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
 header: no
-title: Community Engagement
+title: Endorsements
 image:
    file: felder_and_son.png
    title: Andrew Felder and his son.
 ---
 
-# Community Engagement
+# Endorsements
 
 Work in progress
 
