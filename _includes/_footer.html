@@ -9,6 +9,11 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-4 columns">
+              Andrew B. Felder
+              <div style="padding-bottom: 20px;">andrewbfelder@gmail.com</div>
+              {% comment %}<div>(734) 344-2579</div>{% endcomment %}
+          </section>
+          <section id="subfooter-left" class="small-12 medium-4 columns">
             <ul class="inline-list social-icons">
             {% for social_item in site.data.socialmedia %}
               <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
@@ -16,7 +21,7 @@
             </ul>
           </section>
 
-          <section id="subfooter-right" class="small-12 medium-8 columns credits">
+          <section id="subfooter-right" class="small-12 medium-4 columns credits">
             {{ site.credits }}
           </section>
         </nav>

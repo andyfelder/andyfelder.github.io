@@ -7,13 +7,20 @@ format: page-fullwidth
 	<div class="small-3 columns">
 		<img src="{{ site.url }}{{ site.urlimg }}{{ page.image.file }}" title="{{ page.image.title }}" alt="{{ page.image.title | escape_once }}">
 	</div><!-- /.small-12.columns -->
-{% endif %}
 
 	<div class="small-9 columns">
 		<article>
 			{{ content }}
 		</article>
 	</div><!-- /.medium-12.columns -->
+{% else %}
+
+	<div class="small-12 columns">
+		<article>
+			{{ content }}
+		</article>
+	</div><!-- /.medium-12.columns -->
+{% endif %}
 </div><!-- /.row -->
 
 

@@ -9,5 +9,3 @@ image:
 
 # Values
 
-Work in progress
-

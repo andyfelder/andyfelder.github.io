@@ -88,7 +88,7 @@ $include-html-global-classes: $include-html-classes;
 // $include-html-grid-classes: $include-html-classes;
 // $include-xl-html-grid-classes: false;
 
-// $row-width: rem-calc(1000);
+$row-width: rem-calc(1200);
 // $total-columns: 12;
 // $column-gutter: rem-calc(30);
 
@@ -1374,7 +1374,7 @@ $table-head-bg: $grey-2;
 // $include-html-top-bar-classes: $include-html-classes;
 
 // Height and margin
-$topbar-height: rem-calc(50);
+$topbar-height: rem-calc(70);
 // $topbar-margin-bottom: 0;
 
 // Controlling the styles for the title in the top bar
@@ -1391,18 +1391,18 @@ $topbar-title-font-size: rem-calc(19);
 // $topbar-dropdown-toggle-alpha: 0.4;
 
 // Set the link colors and styles for top-level nav
-// $topbar-link-color: #000;
-// $topbar-link-color-hover: #000;
-// $topbar-link-color-active: #000;
-// $topbar-link-color-active-hover: #000;
+$topbar-link-color: #fff;
+$topbar-link-color-hover: #000000;
+$topbar-link-color-active: #000000;
+$topbar-link-color-active-hover: #000000;
 // $topbar-link-weight: $font-weight-normal;
 $topbar-link-font-size: rem-calc(15);
 // $topbar-link-hover-lightness: -10%; // Darken by 10%
-// $topbar-link-bg: $topbar-bg;
+$topbar-link-bg: #010066;
 // $topbar-link-bg-color-hover: #ff0;
-// $topbar-link-bg-hover: #f00;
-// $topbar-link-bg-active: $primary-color;
-// $topbar-link-bg-active-hover: scale-color($primary-color, $lightness: -14%);
+$topbar-link-bg-hover: #ffffff;
+$topbar-link-bg-active: #ffffff;
+$topbar-link-bg-active-hover: #ffffff;
 // $topbar-link-font-family: $body-font-family;
 $topbar-link-text-transform: uppercase;
 // $topbar-link-padding: $topbar-height / 3;
@@ -1430,7 +1430,8 @@ $topbar-menu-link-transform: uppercase;
 // Transitions and breakpoint styles
 // $topbar-transition-speed: 300ms;
 // Using rem-calc for the below breakpoint causes issues with top bar
-$topbar-breakpoint: #{lower-bound($large-range)}; // Change to 9999px for always mobile layout
+//$topbar-breakpoint: #{lower-bound($medium-range)}; // Change to 9999px for always mobile layout
+$topbar-breakpoint: #{924px}; // Gross hack by Branden to account for block-title size
 $topbar-media-query: "only screen and (min-width: #{$topbar-breakpoint})" !default;
 
 // Divider Styles

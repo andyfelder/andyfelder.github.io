@@ -14,9 +14,7 @@ permalink: /index.html
 homepage: true
 ---
 
-# Felder for Monroe County Treasurer
-
-Andrew Felder is running for Monroe county treasurer!
+# Felder for Monroe County Treasurer - 2020
 
 ![Felder for treasurer poster.]({{ site.url }}{{ site.urlimg }}felder_poster.png)
 
