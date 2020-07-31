@@ -31,7 +31,6 @@ desire to give back.
  * Eastern Michigan University  
    Bachelor of Science - Economics and Political Science  
    Magna Cum Laude
-
  * Jefferson High School
 
 ## Memberships and Community Involvement
