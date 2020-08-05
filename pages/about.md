@@ -3,8 +3,8 @@ layout: page-fullwidth
 header: no
 title: About Andrew Felder
 image:
-   file: felder_professional.jpg
-   title: Andrew Felder.
+   file: about_images.png
+   title: Andrew Felder family.
 ---
 
 # About Andrew Felder

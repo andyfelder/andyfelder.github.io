@@ -12,6 +12,13 @@ Andrew B. Felder
 andrewbfelder@gmail.com  
 (734) 344-2579
 
+<ul class="inline-list social-icons">
+{% for social_item in site.data.socialmedia %}
+  <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
+{% endfor %}
+</ul>
+
+
 ## Contribute
 
 [Donate to the campaign through PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LK8R7BR5HAHMS&source=url)

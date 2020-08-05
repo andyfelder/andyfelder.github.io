@@ -14,7 +14,31 @@ permalink: /index.html
 homepage: true
 ---
 
-# Felder for Monroe County Treasurer - 2020
+![Felder for treasurer banner.]({{ site.url }}{{ site.urlimg }}felder_brick_banner.png)
 
-![Felder for treasurer poster.]({{ site.url }}{{ site.urlimg }}felder_poster.png)
+<div class="small-6 columns">
+<article>
+<h1 id="about-andrew-felder">Running for Treasurer</h1>
+
+<p>
+Andrew is running for Monroe County Treasurer!
+</p>
+
+<p>
+Andrew is a lifelong resident of Monroe. He has been married to his wife,
+Jessica, for six years this August. He has two wonderful children Teddy and
+Emmy. Andrew is motivated by both his commitment to Monroe County and his
+desire to give back.
+</p>
+
+<p>
+<a href="{{ site.url }}/pages/contact/">Connect and contribute to the campaign.</a>
+</p>
+
+</article>
+</div>
+
+<div class="small-6 columns">
+<a class="twitter-timeline" data-lang="en" data-width="400" data-height="600" data-dnt="true" data-theme="light" href="https://twitter.com/AndrewFelder1?ref_src=twsrc%5Etfw">Tweets by Andrew Felder</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
