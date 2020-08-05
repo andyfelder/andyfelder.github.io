@@ -3,7 +3,7 @@ layout: page-fullwidth
 header: no
 title: News and Media
 image:
-   file: felder_family_professional.png
+   file: about_images.png
    title: Felder family.
 ---
 
