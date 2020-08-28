@@ -1,6 +1,6 @@
 ---
 #
-layout: page-fullwidth
+layout: homepage-fullwidth
 header: no
 title: "Felder for Monroe"
 #image:
@@ -32,13 +32,21 @@ desire to give back.
 </p>
 
 <p>
-<a href="{{ site.url }}/pages/contact/">Connect and contribute to the campaign.</a>
+<a href="{{ site.url }}/pages/contact/" class="button">Connect and contribute to the campaign.</a>
 </p>
 
 </article>
 </div>
 
 <div class="small-6 columns">
+<div class="row">
+
+<div class="small-12 columns">
+<a href="https://www.facebook.com/AndrewBFelder/" class="button icon-facebook" target="_blank">&nbsp;Visit Andrew Felder on Facebook</a>
+</div>
+
+<div class="small-12 columns">
 <a class="twitter-timeline" data-lang="en" data-width="400" data-height="600" data-dnt="true" data-theme="light" href="https://twitter.com/AndrewFelder1?ref_src=twsrc%5Etfw">Tweets by Andrew Felder</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 </div>
 
