@@ -38,24 +38,32 @@ way.
 
 ### What are your main priorities and goals if elected?
 
-_County Financial Security_: As custodian of the county's funds, Andrew will
-work with the County Administration and Board of Commissioners to ensure the
-county's financial security and provide flexibility to the budget through the
-Investment Policy.
+_County Financial Security_: As custodian of the county's funds, I will work with
+the County Administration and Board of Commissioners to ensure the county's
+financial security and provide flexibility to the budget through the Investment
+Policy. The Treasurer’s Office will need to account for the economic impact of
+the pandemic coupled with DTE’s property reassessment. I will prioritize
+shorter-term maturity investments making budgetary adjustments possible as
+needed.
 
-_Economic Development_: In his time on City Council Andrew and his colleagues
-pursued an aggressive policy of redeveloping the city. As treasurer, Andrew
-would use his role as chairman of the land bank to help redevelop our
-communities
+_Economic Development_: During my time on City Council, I pursued an aggressive
+policy of redeveloping the city. As Treasurer, I would use the role as chairman
+of the land bank to help redevelop our communities and revitalize our
+neighborhoods.
 
-_Interjurisdictional Cooperation_: Serving on Council has provided Andrew with
+_Interjurisdictional Cooperation_: Serving on Council has provided me with
 several opportunities to cooperate with the county and townships on many
-projects. He looks forward to coordinating with township Treasurers in carrying
-out the duties of the Office.
+projects. These include expanding water distribution to the townships and a
+land swap with Frenchtown among others. I plan to continue coordinating with
+township Treasurers through open and frequent communication.
 
-_Working with Residents_: Andrew will continue the Treasurer's policy of
-working with residents through payment plans to keep families in their homes.
-
+_Working with Residents_: I will continue the Treasurer's policy of working with
+residents through payment plans with the goal of keeping families in their
+homes. I plan to increase awareness of the assistance plans available and
+connect people to these resources. I intend to work with the Treasurer’s Office
+team to modernize the online resources giving residents easy access to critical
+information. And I promise to be both welcoming and accessible to all residents
+of Monroe County.
 
 ### What challenges will the Treasurer’s Office face because of the pandemic and how can they be addressed?
 
