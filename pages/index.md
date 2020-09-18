@@ -16,11 +16,13 @@ homepage: true
 
 ![Felder for treasurer banner.]({{ site.url }}{{ site.urlimg }}felder_brick_banner.png)
 
-
+<div class="small-12 columns">
+<p style="text-align:center">
+<iframe width="640" height="360" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
+</p>
+</div>
 
 <div class="small-6 columns">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
-
 <article>
 <h1 id="about-andrew-felder">Running for Treasurer</h1>
 
