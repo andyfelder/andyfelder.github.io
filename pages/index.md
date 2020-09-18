@@ -16,10 +16,10 @@ homepage: true
 
 ![Felder for treasurer banner.]({{ site.url }}{{ site.urlimg }}felder_brick_banner.png)
 
-<div class="small-12 columns">
-<p style="text-align:center">
-<iframe width="640" height="360" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
-</p>
+<div class="small-10 columns">
+<div class="flex-video">
+<iframe class="video" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
+</div>
 </div>
 
 <div class="small-6 columns">
