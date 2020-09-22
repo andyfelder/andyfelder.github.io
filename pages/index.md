@@ -22,29 +22,16 @@ homepage: true
 </div>
 </div>
 
-<div class="small-6 columns">
-<article>
-<h1 id="about-andrew-felder">Running for Treasurer</h1>
-
-<p>
-Andrew is running for Monroe County Treasurer!
-</p>
-
-<p>
-Andrew is a lifelong resident of Monroe. He has been married to his wife,
-Jessica, for six years this August. He has two wonderful children Teddy and
-Emmy. Andrew is motivated by both his commitment to Monroe County and his
-desire to give back.
-</p>
-
+<div class="small-5 columns">
 <p>
 <a href="{{ site.url }}/pages/contact/" class="button">Connect and contribute to the campaign.</a>
 </p>
 
-</article>
+<img src="images/keyword_splash.png" title="Values of Andrew Felder." alt="Values of Andrew Felder.">
+
 </div>
 
-<div class="small-6 columns">
+<div class="small-7 columns">
 <div class="row">
 
 <div class="small-12 columns">
