@@ -16,22 +16,21 @@ homepage: true
 
 ![Felder for treasurer banner.]({{ site.url }}{{ site.urlimg }}felder_brick_banner.png)
 
-<div class="small-10 columns">
+<div class="small-6 columns">
+
+<img src="images/keyword_splash.png" title="Values of Andrew Felder." alt="Values of Andrew Felder.">
+
 <div class="flex-video">
 <iframe class="video" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
 </div>
-</div>
 
-<div class="small-5 columns">
 <p>
 <a href="{{ site.url }}/pages/contact/" class="button">Connect and contribute to the campaign.</a>
 </p>
 
-<img src="images/keyword_splash.png" title="Values of Andrew Felder." alt="Values of Andrew Felder.">
-
 </div>
 
-<div class="small-7 columns">
+<div class="small-6 columns">
 <div class="row">
 
 <div class="small-12 columns">
