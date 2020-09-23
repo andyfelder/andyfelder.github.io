@@ -21,7 +21,7 @@ homepage: true
 <img src="images/keyword_splash.png" title="Values of Andrew Felder." alt="Values of Andrew Felder.">
 
 <div class="flex-video">
-<iframe class="video" src="https://www.youtube.com/embed/_3pgd_8WPwE" frameborder="0" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/0X7OSbBHfbo" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p>
